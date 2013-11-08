@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.2.0</Version>
+  <Name>SoulUI</Name>
+  <ProjectDir>E:\UIcocos\SoulUI</ProjectDir>
+  <JsonFileName>SoulUI.json</JsonFileName>
+  <Resources>E:\UIcocos\SoulUI\Resources</Resources>
+  <JsonFolder>E:\UIcocos\SoulUI\Json</JsonFolder>
+  <JsonList>
+    <string>SoulUI.json</string>
+    <string>SoulUI_EX.json</string>
+    <string>SoulUI_0.json</string>
+    <string>SoulUI_0_EX.json</string>
+    <string>SoulUI_0_EX_0.json</string>
+    <string>SoulUI_1_EX_1.json</string>
+  </JsonList>
+  <imageFileList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>SoulUI_0.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+</UIProject>

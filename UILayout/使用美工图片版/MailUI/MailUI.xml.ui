@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.2.0</Version>
+  <Name>MailUI</Name>
+  <ProjectDir>E:\UIcocos\MailUI</ProjectDir>
+  <JsonFileName>MailUI.json</JsonFileName>
+  <Resources>E:\UIcocos\MailUI\Resources</Resources>
+  <JsonFolder>E:\UIcocos\MailUI\Json</JsonFolder>
+  <JsonList>
+    <string>MailUI.json</string>
+  </JsonList>
+  <imageFileList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>MailUI.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+</UIProject>

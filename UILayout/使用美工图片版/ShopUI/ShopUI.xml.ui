@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.0.0</Version>
+  <Name>ShopUI</Name>
+  <ProjectDir>E:\UIcocos\ShopUI</ProjectDir>
+  <JsonFileName>ShopUI.json</JsonFileName>
+  <Resources>E:\UIcocos\ShopUI\Resources</Resources>
+  <JsonFolder>E:\UIcocos\ShopUI\Json</JsonFolder>
+  <JsonList>
+    <string>ShopUI.json</string>
+  </JsonList>
+  <imageFileList />
+  <bBatchImage>false</bBatchImage>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>ShopUI.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+</UIProject>

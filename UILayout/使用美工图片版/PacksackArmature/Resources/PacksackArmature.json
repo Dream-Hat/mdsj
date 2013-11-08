@@ -1,0 +1,188 @@
+{
+  "armature_data": [
+    {
+      "strVersion": "1.0.0.0",
+      "version": 1.0,
+      "name": "PacksackArmature",
+      "bone_data": [
+        {
+          "name": "Layer1",
+          "parent": "",
+          "x": -2.0,
+          "y": -0.32666015625,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -0.0485905968,
+          "kY": 0.0485905968,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "bag_pic_player1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.388580322,
+                  "y": 7.990555,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "helmetbone",
+          "parent": "Layer1",
+          "x": -3.0,
+          "y": 131.0,
+          "z": 2,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 7.979728E-17,
+          "kY": -7.979728E-17,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": true,
+          "display_data": [
+            {
+              "name": "bag_helmet1tex.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "bag_helmet2tex.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "PacksackArmature",
+      "mov_data": [
+        {
+          "name": "Animation1",
+          "dr": 0,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "helmetbone",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            },
+            {
+              "name": "Layer1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "bag_pic_player1",
+      "width": 44.80009,
+      "height": 54.24011,
+      "pX": 0.468749046,
+      "pY": 0.502213359
+    },
+    {
+      "name": "helmet1tex",
+      "width": 26.5600548,
+      "height": 20.3200417,
+      "pX": 0.489456832,
+      "pY": 0.507875
+    },
+    {
+      "name": "helmet2tex",
+      "width": 11.6800241,
+      "height": 8.800018,
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    {
+      "name": "bag_helmet1tex",
+      "width": 26.5600548,
+      "height": 20.3200417,
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    {
+      "name": "bag_pic_player2",
+      "width": 29.12006,
+      "height": 51.5201035,
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    {
+      "name": "bag_helmet2tex",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5
+    }
+  ],
+  "config_file_path": [
+    "PacksackArmature0.plist"
+  ]
+}

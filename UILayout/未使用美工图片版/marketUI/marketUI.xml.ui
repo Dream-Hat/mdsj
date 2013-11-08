@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.0.0</Version>
+  <Name>marketUI</Name>
+  <ProjectDir>E:\UIcocos\marketUI</ProjectDir>
+  <JsonFileName>marketUI.json</JsonFileName>
+  <Resources>E:\UIcocos\marketUI\Resources</Resources>
+  <JsonFolder>E:\UIcocos\marketUI\Json</JsonFolder>
+  <JsonList>
+    <string>marketUI_1.json</string>
+  </JsonList>
+  <imageFileList />
+  <bBatchImage>false</bBatchImage>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>marketUI_1.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+</UIProject>

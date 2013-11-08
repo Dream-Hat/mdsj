@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.0.0</Version>
+  <Name>chatUI</Name>
+  <ProjectDir>E:\UIcocos\chatUI</ProjectDir>
+  <JsonFileName>chatUI.json</JsonFileName>
+  <Resources>E:\UIcocos\chatUI\Resources</Resources>
+  <JsonFolder>E:\UIcocos\chatUI\Json</JsonFolder>
+  <JsonList>
+    <string>chatUI.json</string>
+  </JsonList>
+  <imageFileList />
+  <bBatchImage>false</bBatchImage>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>chatUI.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+</UIProject>

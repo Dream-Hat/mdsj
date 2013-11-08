@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.2.0</Version>
+  <Name>richangUI</Name>
+  <ProjectDir>E:\UIcocos\richangUI</ProjectDir>
+  <JsonFileName>richangUI.json</JsonFileName>
+  <Resources>E:\UIcocos\richangUI\Resources</Resources>
+  <JsonFolder>E:\UIcocos\richangUI\Json</JsonFolder>
+  <JsonList>
+    <string>richangUI_1.json</string>
+  </JsonList>
+  <imageFileList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>richangUI_1.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+</UIProject>

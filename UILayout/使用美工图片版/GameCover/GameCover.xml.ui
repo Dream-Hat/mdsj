@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.2.0</Version>
+  <Name>GameCover</Name>
+  <ProjectDir>E:\UIcocos\GameCover</ProjectDir>
+  <JsonFileName>GameCover.json</JsonFileName>
+  <Resources>E:\UIcocos\GameCover\Resources</Resources>
+  <JsonFolder>E:\UIcocos\GameCover\Json</JsonFolder>
+  <JsonList>
+    <string>GameCover.json</string>
+  </JsonList>
+  <imageFileList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>GameCover.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+</UIProject>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.0.0</Version>
+  <Name>PVEUI</Name>
+  <ProjectDir>E:\UIcocos\PVEUI</ProjectDir>
+  <JsonFileName>PVEUI.json</JsonFileName>
+  <Resources>E:\UIcocos\PVEUI\Resources</Resources>
+  <JsonFolder>E:\UIcocos\PVEUI\Json</JsonFolder>
+  <JsonList>
+    <string>PVEUI.json</string>
+  </JsonList>
+  <imageFileList />
+  <bBatchImage>false</bBatchImage>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>PVEUI.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+</UIProject>

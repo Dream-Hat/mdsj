@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.2.0</Version>
+  <Name>ClubUI</Name>
+  <ProjectDir>E:\UIcocos\ClubUI</ProjectDir>
+  <JsonFileName>ClubUI.json</JsonFileName>
+  <Resources>E:\UIcocos\ClubUI\Resources</Resources>
+  <JsonFolder>E:\UIcocos\ClubUI\Json</JsonFolder>
+  <JsonList>
+    <string>ClubUI.json</string>
+    <string>ClubUI_1.json</string>
+  </JsonList>
+  <imageFileList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>ClubUI.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+</UIProject>

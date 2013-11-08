@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="28" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="fight_bgpic_map" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="fight_bgpic_map.png" width="1920" height="539"/>
+ </tileset>
+ <layer name="块层 1" width="60" height="28">
+  <data encoding="base64" compression="zlib">
+   eJzt1VXTkFUYhlG6kRSQ7pRUOqSlkRIRkAbp7u4OaaWlS0BCQJHu7u7u7nJ55PcXnHmvmXWwD++DZ3aoUEFBQUFBQUFBQUFBQUFBQUFB/6fCEJZwhCcCEYlEZKIQlWhE5xNiEJNYxCYOcfmUeMQnAZ+RkEQkJglJSUZyUpCSVKQmDWlJR3oykJFMfE5mspCVbGQnB1/wJTnJRW7ykJd8hA6xswAFKcRXFKYIRSlGcUpQkq8pRWnKUJZylKcCFfmGSlSmClWpxrdU5ztq8D01qUVtfqAOdalHfRrQkEY0pgk/0pRmNKcFLWlFa9rQlna0pwP5Q+zsRGe60JVudKcHPelFb/rQl370ZwADGcRghjCUYQxnBCMZxWjG8BNjGcd4JjCRSUzmZ35hClOZxnRmMJNZ/Mps5jCXecxnAQtZxGKWsJTf6Bhi53JW8DsrWcVq1vAHa1nHev7kLzbwNxvZxGa2sJVtbGcHO9nFbvawl33s5wAHOcRhjnCUYxznBCc5xWnOcJZznOcCF7nEZa5wlWtc5wY3ucWyEDvvcJd73OcBD3nEY57wlGc85wUvecVr3vCWd7znAx/592hCE4awhCM8EYhIJCIThahEIzqfEIOYxCI2cYjLp8QjPgn4jIQkIjFJSEoykpOClNwOsTO1dxrSko70ZCAjmficzGQhK9nITg6+4Etykovc5CEv+chPAQpSiK8oTBGKUozilKAkX1OK0pShLOUoTwUq8g2VqEwVqlKNb6nOd9Tge2pSi1Sh/9v5A3WoSz3q04CGNKIxTfiRpjSjOS1oSSta04a2tKM9HehIJzrTha50ozs96EkvetOHvvSjPwMYyCAGM4ShDGM4IxjJKEYzhp8YyzjGM4GJ1A6xczI/8wtTmMo0pjODmcziV2Yzh7nMYz4LWMgiFrOEpfzGMpazgt9ZySpWs4Y/WMs61vMnf7GBv9nIJjazha1sYzs72MkudrOHvexjPwc4yCEmhdh5hKMc4zgnOMkpTnOGs5zjPBe4yCUuc4WrXOM6N7jJLW5zh7vc4z4PeMgjHvOEpzzjOS94ySte84a3vOM9H/jIvx9qaMIQlnCEJwIRiURkonA4xM5/AAkECOI=
+  </data>
+ </layer>
+ <objectgroup name="对象层 1" width="60" height="28"/>
+</map>

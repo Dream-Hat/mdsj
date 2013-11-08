@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.2.0</Version>
+  <Name>taskUI</Name>
+  <ProjectDir>E:\UIcocos\taskUI</ProjectDir>
+  <JsonFileName>taskUI.json</JsonFileName>
+  <Resources>E:\UIcocos\taskUI\Resources</Resources>
+  <JsonFolder>E:\UIcocos\taskUI\Json</JsonFolder>
+  <JsonList>
+    <string>taskUI.json</string>
+  </JsonList>
+  <imageFileList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>taskUI.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+</UIProject>
